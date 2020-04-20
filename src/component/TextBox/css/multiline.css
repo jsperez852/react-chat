@@ -1,0 +1,7 @@
+.multiliner {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    margin-top: 20px;
+    background: white;
+}
